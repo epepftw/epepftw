@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me -- email : ef.gabuat@gmail.com
+- 📫 How to reach me -- email : efgbt17@gmail.com
 
 <!---
 epepftw/epepftw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
